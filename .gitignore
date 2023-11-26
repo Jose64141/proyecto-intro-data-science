@@ -87,3 +87,5 @@ venv.bak/
 #Sensitive data
 **/*.pdf
 *.xlsx
+
+.idea
