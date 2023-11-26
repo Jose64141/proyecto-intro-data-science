@@ -87,3 +87,9 @@ venv.bak/
 #Sensitive data
 **/*.pdf
 *.xlsx
+*.tensor
+
+#SLURM
+err_*
+out_*
+*.sh
